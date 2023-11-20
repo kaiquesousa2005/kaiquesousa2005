@@ -1,10 +1,12 @@
 ### Hi there 👋
 👋 Olá, sou Kaique Sousa
 
-👀 Estou interessado em... Tecnologia
+👀 Em busca da programação Web
 
-🌱 Atualmente estou aprendendo a ser desenvolvedor ... Front-end
+🌱 Cursando Análise e Desenvolvimento de Sistemas
 
-💞️ Procuro colaborar em ... colegas de classe
+🖤 Em aprendizado para ser desenvolvedor FullStack
 
-📫 Como entrar em contato comigo ... kaique.freire@hotmail.com
+📫 Como entrar em contato: kaique.freire@hotmail.com / (85)985818139
+
+🧷https://br.linkedin.com/in/kaique-marlon-93a7ba272
