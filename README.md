@@ -1,7 +1,7 @@
 ### Hi there 👋
 👋 Olá, sou Kaique Sousa
 
-👀 Em busca da programação Web
+👀 Desenvolvedor Web
 
 🌱 Cursando Análise e Desenvolvimento de Sistemas
 
