@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Unifor e apaixonado por tecnologia e desenvolvimento web. Atualmente, estou aprendendo a trabalhar com **Next.js** e aprimorando minhas habilidades em **Adobe Photoshop**.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Unifor e apaixonado por tecnologia e desenvolvimento web. Atualmente, estou me especializando na área de Desenvolvedor Web e aprimorando minhas habilidades para se tornar um Full-Stack Web 
 
 ## Tecnologias que uso 🚀
 
@@ -26,6 +26,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unifor e apaixonado p
 ## Como me encontrar 📨
 
 - [LinkedIn] https://www.linkedin.com/in/kaique-marlon-93a7ba272/
+- Celular: +55(85)985818139
 
 ## Estatísticas do GitHub 📊
 
