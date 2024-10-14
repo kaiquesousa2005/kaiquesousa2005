@@ -10,7 +10,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unifor e apaixonado p
 
 - **Linguagens de Programação:**
   - JavaScript
-  - Python
+  - SQL
+  - TypeScript
   - HTML/CSS
 
 - **Frameworks e Bibliotecas:**
@@ -21,13 +22,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unifor e apaixonado p
 - **Ferramentas:**
   - Git & GitHub
   - Visual Studio Code
-  - Figma
-
-## Projetos em Destaque 🌟
-
-- [Nome do Projeto 1](link_do_projeto_1): Descrição breve do projeto 1.
-- [Nome do Projeto 2](link_do_projeto_2): Descrição breve do projeto 2.
-- [Nome do Projeto 3](link_do_projeto_3): Descrição breve do projeto 3.
 
 ## Como me encontrar 📨
 
