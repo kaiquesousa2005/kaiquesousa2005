@@ -1,6 +1,6 @@
 # Olá, eu sou Kaique 👋
 
-![Imagem da Capa](https://github.com/kaiquesousa2005/kaiquesousa2005/blob/main/1099dfe1-591e-426f-a028-4f73884e12cb.jpeg)
+![Curriculo]((https://github.com/kaiquesousa2005/kaiquesousa2005/blob/main/Profile%20(14)-page-001.jpg))
 
 ---
 
