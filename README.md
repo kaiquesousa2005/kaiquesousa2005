@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Kaique 👋
 
 ![Imagem de capa](link_da_imagem)
 
@@ -35,7 +35,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unifor e apaixonado p
 
 ## Estatísticas do GitHub 📊
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kaiquesousa2005&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesousa2005&theme=radical)
 
