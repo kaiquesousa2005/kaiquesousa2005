@@ -31,15 +31,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unifor e apaixonado p
 
 ## Como me encontrar 📨
 
-- [LinkedIn](link_do_seu_linkedin)
-- [Twitter](link_do_seu_twitter)
-- [Website/Blog](link_do_seu_site)
+- [LinkedIn] https://www.linkedin.com/in/kaique-marlon-93a7ba272/
 
 ## Estatísticas do GitHub 📊
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_username&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesousa2005&theme=radical)
 
 ---
 
