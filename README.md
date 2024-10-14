@@ -1,6 +1,6 @@
 # Olá, eu sou Kaique 👋
 
-![Imagem de capa]1099dfe1-591e-426f-a028-4f73884e12cb.jpeg
+!1099dfe1-591e-426f-a028-4f73884e12cb.jpeg
 
 ## Sobre mim
 
