@@ -2,44 +2,51 @@
 
 ![Imagem da Capa](https://github.com/kaiquesousa2005/kaiquesousa2005/blob/main/1099dfe1-591e-426f-a028-4f73884e12cb.jpeg)
 
-## Sobre mim
+---
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Unifor e apaixonado por tecnologia e desenvolvimento web. Atualmente, estou me especializando na área de Desenvolvedor Web e aprimorando minhas habilidades para se tornar um Full-Stack Web 
+## 🎓 Sobre Mim
 
-## Tecnologias que uso 🚀
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unifor e apaixonado por tecnologia e desenvolvimento web. Atualmente, estou me especializando na área de **Desenvolvedor Web** e aprimorando minhas habilidades para me tornar um **Full-Stack Developer**.
 
-- **Linguagens de Programação:**
-  - JavaScript
-  - SQL
-  - TypeScript
-  - HTML/CSS
+---
 
-- **Frameworks e Bibliotecas:**
-  - Next.js
-  - React
-  - Node.js
+## 🚀 Tecnologias que Uso
 
-- **Ferramentas:**
-  - Git & GitHub
-  - Visual Studio Code
+### 🌐 Linguagens de Programação
+- **JavaScript**
+- **SQL**
+- **TypeScript**
+- **HTML/CSS**
 
-## Como me encontrar 📨
+### 🛠️ Frameworks e Bibliotecas
+- **Next.js**
+- **React**
+- **Node.js**
 
-- [LinkedIn] https://www.linkedin.com/in/kaique-marlon-93a7ba272/
-- Celular: +55(85)985818139
+### 🔧 Ferramentas
+- **Git & GitHub**
+- **Visual Studio Code**
 
-## Estatísticas do GitHub 📊
+---
+
+## 📬 Como Me Encontrar
+
+- **[LinkedIn](https://www.linkedin.com/in/kaique-marlon-93a7ba272/)**
+- **Celular:** +55 (85) 98581-8139
+
+---
+
+## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kaiquesousa2005&show_icons=true&theme=radical)
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesousa2005&theme=radical)
 
 ---
 
-### Contribuições
+## 🤝 Contribuições
 
 Se você deseja contribuir para meus projetos, fique à vontade para abrir uma *issue* ou enviar um *pull request*. Estou sempre aberto a colaborações e novas ideias!
 
 ---
 
-Obrigado por visitar meu perfil! 😊
+### ⭐️ Obrigado por Visitar Meu Perfil! 😊
