@@ -3,7 +3,7 @@
   <h1>Olá, eu sou o Kaique Sousa! 👋</h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Desenvolvedor+Full-Stack;Entusiasta+de+JavaScript;Sempre+aprendendo+coisas+novas;Construindo+projetos+incríveis">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Desenvolvedor+Web+Full-Stack;Resolvedor+de+Problemas;Sempre+aprendendo+coisas+novas;Construindo+projetos+incríveis">
   </p>
 
   <img src="https://raw.githubusercontent.com/kaiquesousa2005/kaiquesousa2005/main/Profile%20(14)-page-001.jpg" alt="Profile banner" />
