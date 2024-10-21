@@ -63,6 +63,9 @@
 <div align="center">
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquesousa2005&theme=dracula" alt="Atividade de commits de Kaique Sousa"/>
 </div>
+<div align="center">
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesousa2005&theme=radical"/>
+</div>
 
 ---
 
