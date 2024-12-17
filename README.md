@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Desenvolvedor+Web+Full-Stack;Resolvedor+de+Problemas;Sempre+aprendendo+coisas+novas;Construindo+projetos+incríveis">
   </p>
 
-  <img src="https://github.com/kaiquesousa2005/kaiquesousa2005/blob/main/Profile%20(16).pdf" alt="Profile banner" />
+  <img src="https://github.com/kaiquesousa2005/kaiquesousa2005/blob/main/Profile%20(16)_page-0001.jpg" alt="Profile banner" />
 </div>
 
 ---
