@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
   <h1>Olá, eu sou o Kaique Sousa! 👋</h1>
 
-  <img src="https://github.com/kaiquesousa2005/kaiquesousa2005/blob/main/Profile%20(16)_page-0001.jpg" alt="Profile banner" />
 </div>
 
 ---
