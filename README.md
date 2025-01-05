@@ -3,7 +3,9 @@
   <h1>Olá, eu sou o Kaique Sousa! 👋</h1>
 
 </div>
-
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Desenvolvedor+Web+Full-Stack;Resolvedor+de+Problemas;Sempre+aprendendo+coisas+novas;Construindo+projetos+incríveis">
+  </p>
 ---
 
 ## 🎓 Sobre Mim
