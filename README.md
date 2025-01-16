@@ -73,7 +73,7 @@
     <tr>
       <td><a href="https://github.com/kaiquesousa2005/Site-MCAR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiquesousa2005&repo=Site-MCAR&theme=radical" alt="Site para uma loja de Revenda de Veículos"></a></td>
       <td><a href="https://github.com/kaiquesousa2005/gest-o-funcionario"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiquesousa2005&repo=gest-o-funcionario&theme=radical" alt="Gestão de Funcionarios"></a></td>
-      <td><a href="https://github.com/kaiquesousa2005/sistema-mcar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiquesousa2005&repo=sistema-mcar&theme=radical" alt="Sistema de Gerenciamento de Gastos"></a></td>
+      <td><a href="https://github.com/kaiquesousa2005/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiquesousa2005&repo=portfolio&theme=radical" alt="Portfolio Atualizado"></a></td>
     </tr>
   </table>
 </div>
