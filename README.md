@@ -54,8 +54,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquesousa2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Kaique Sousa"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiquesousa2005&theme=radical" alt="Contribuições consecutivas"/>
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquesousa2005&theme=dracula" alt="Atividade de commits de Kaique Sousa"/>
@@ -71,7 +69,6 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://github.com/kaiquesousa2005/Site-MCAR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiquesousa2005&repo=Site-MCAR&theme=radical" alt="Site para uma loja de Revenda de Veículos"></a></td>
       <td><a href="https://github.com/kaiquesousa2005/gest-o-funcionario"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiquesousa2005&repo=gest-o-funcionario&theme=radical" alt="Gestão de Funcionarios"></a></td>
       <td><a href="https://github.com/kaiquesousa2005/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiquesousa2005&repo=portfolio&theme=radical" alt="Portfolio Atualizado"></a></td>
     </tr>
